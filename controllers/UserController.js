@@ -111,6 +111,5 @@ module.exports = {
     obtenerUser,
     getAllUser,
     actualizarUser,
-    login,
     eliminarUser
 };
